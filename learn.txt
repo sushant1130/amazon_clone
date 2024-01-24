@@ -1,0 +1,4 @@
+to add copyrights free icons to the website: https://fontawesome.com/
+to link font icons we will go to the cdnjs font awesome website cdsjs is content delivery network
+CDN connect to the nearest server which is having the data
+font sizes are added in rem which is root m which means font sizes will be adjusted according to the root size
